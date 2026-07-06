@@ -815,3 +815,5 @@ class GS1DigitalLinkToolkit {
 
 
 }
+
+module.exports = GS1DigitalLinkToolkit;
