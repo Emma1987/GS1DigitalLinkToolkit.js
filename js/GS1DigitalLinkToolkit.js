@@ -816,4 +816,4 @@ class GS1DigitalLinkToolkit {
 
 }
 
-module.exports = GS1DigitalLinkToolkit;
+window.GS1DigitalLinkToolkit = GS1DigitalLinkToolkit;
